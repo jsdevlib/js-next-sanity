@@ -15,9 +15,3 @@ This repository contains the code for a fully functional online store built with
 Frontend <br> 2. cd frontend <br> 3. Install the dependencies: `npm install` <br> 4. Set up the required environment variables (see `.env.example` file). <br> 5. Run the application: `npm run dev` <br> 6. Open your browser and visit: `http://localhost:3000` <br>
 <br>
 CMS <br> 2. cd cms <br> 3. Install the dependencies: `npm install` <br> 4. Set up the required environment variables (see `.env.example` file). <br> 5. Run the application: `npm run dev` <br> 6. Open your browser and visit: `http://localhost:3333` <br>
-
-## Contact
-
-For any inquiries or questions, feel free to reach out to me via email at itslaribright@gmail.com
-
-Let's build something amazing together! 🌟
